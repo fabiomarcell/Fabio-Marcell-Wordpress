@@ -1,0 +1,7 @@
+usuario wordpress
+usuario: teste
+senha: teste
+
+sistema em produção
+http://191.238.224.161/fabio_wp/
+http://191.238.224.161/fabio_php/
